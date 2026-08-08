@@ -25,6 +25,7 @@
 <div align="center">
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-ffd9e8?style=for-the-badge&logo=kotlin&logoColor=6b3d5c)
+![PHP](https://img.shields.io/badge/PHP-ffb6d9?style=for-the-badge&logo=php&logoColor=6b3d5c)
 ![C](https://img.shields.io/badge/C-ffb6d9?style=for-the-badge&logo=c&logoColor=6b3d5c)
 ![HTML5](https://img.shields.io/badge/HTML5-f7b8d8?style=for-the-badge&logo=html5&logoColor=6b3d5c)
 ![CSS3](https://img.shields.io/badge/CSS3-fce8f3?style=for-the-badge&logo=css3&logoColor=6b3d5c)
